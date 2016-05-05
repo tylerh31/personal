@@ -39,7 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Under Construction, Please Come Back Soon.</div>
-                <img src="patrick.jpg" alt="Patrick Star" height="360" width="360">
+                <img src="spongebob.gif" alt="Spongebob Squidward Leapfrog" height="360" width="360">
             </div>
         </div>
     </body>
