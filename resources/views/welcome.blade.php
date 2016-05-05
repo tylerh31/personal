@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Under Construction, Please Come Back Soon.</div>
+                <img src="patrick.jpg" alt="Patrick Star" height="42" width="42">
             </div>
         </div>
     </body>
